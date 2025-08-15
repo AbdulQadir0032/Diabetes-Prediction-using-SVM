@@ -1,4 +1,3 @@
-readme_content = """
 Python App Setup and Run Guide
 ==============================
 
